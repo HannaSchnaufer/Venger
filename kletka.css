@@ -1,0 +1,74 @@
+body {
+  background-color: white;
+  background-image: url(https://screenmusings.org/movie/blu-ray/Interstellar/images/Interstellar-029.jpg);
+
+}
+h1 {
+  color: white;
+  text-shadow: 25px 2px 25px #000000;
+}
+p {
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  text-shadow: 25px 2px 25px #000000;
+}
+header {
+	border: 2px; 
+	text-align: center;
+	margin-top: 20px;
+	text
+}
+nav {
+	justify-content: center;
+	display: flex;
+	column-gap: 30px;
+	font-family: Arial, sans-serif;
+	text-shadow: 25px 2px 25px;
+	color: white;
+}
+
+}
+body {
+	margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #62dgcf;
+    color: black;
+}
+	.container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 200px;
+            text-align: center;
+        }
+
+	.label {
+            background-color: #28a745;
+            color: white;
+            padding: 8px 10px;
+            border-radius: 10px;
+            font-size: 25px;
+            margin-bottom: 15px;
+            text-align: center;
+            font-family: Poppins;
+        }
+
+	.buttons {
+            display: flex;
+            gap: 20px;
+        }
+	.buttons a {
+            padding: 15px 30px;
+            text-decoration: none;
+            color: white;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+	.arbalest {
+            background-color: #28a745;
+        }
+	.drowner {
+            background-color: #05445e;
+        }        
